@@ -1,0 +1,22 @@
+{
+  "name": "js-starter",
+  "version": "1.0.0",
+  "description": "This is a starter project to be used when experimenting with new features or vendors.",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennis-guye/node-js-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennis-guye/node-js-starter/issues"
+  },
+  "homepage": "https://github.com/dennis-guye/node-js-starter#readme"
+}
